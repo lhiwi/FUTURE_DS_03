@@ -19,4 +19,3 @@ Thumbs.db
 # Data files that may be too large
 *.csv
 *.xlsx
-*.pbix
