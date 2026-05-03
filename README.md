@@ -1,4 +1,3 @@
-````
 # FUTURE_DS_03 — Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
@@ -333,7 +332,6 @@ dashboard/Marking_funnel_dashboard.pbix
 Data Science & Analytics Intern
 Future Interns
 
-GitHub: [https://github.com/lhiwi](https://github.com/lhiwi)
 
 ````
 
